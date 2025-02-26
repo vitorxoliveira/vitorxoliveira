@@ -1,7 +1,7 @@
 - 👋 Hi, I’m João Vitor 
 - 👀 I’m interested in macro and ecological economics
 - 🌱 I’m currently learning sfc models
-- 📫 How to reach me send a letter to Paris
+- 📫 How to reach me? Send me a letter to Paris. 
 
 
 <!---
